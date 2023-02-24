@@ -1,0 +1,106 @@
+cd
+mkdir
+[A[3~[3~[3~[3~[3~[3~[C[C[C[C[A[C[C[C[C
+[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2~[2;3~
+    1  pwd
+    2  pwd
+    3  pwd
+    4  ls
+    5  ls -l
+    6  ls -a
+    7  ls
+    8  cd ..
+    9  pwd
+   10  ls -la
+   11  cd Новая\ папка/
+   12  cd ..
+   13  cd Git-Bash/
+   14   mkdir new_folder
+   15  cd new_folder/
+   16  mkdir folder_1 folder_2 folder_3
+   17  mkdir folder_1/new_folder_1.1
+   18  ls -la
+   19  ls -la folder_1
+   20  rm -r folder_3
+   21  ls -la
+   22  mkdir folder_3
+   23  ls -l
+   24  touch one.txt
+   25  ls -la
+   26  cat > two.txt
+   27  ls -la
+   28  cat two.txt
+   29  cat >> two.txt
+   30  cat two.txt
+   31  rm one.txt
+   32  ls -la
+   33  cp two.txt folder_1/two.txt
+   34  ls -la
+   35  ls -la folder_1
+   36  cat folder_1/two.txt
+   37   mv two.txt folder_2/two.txt
+   38  ls -la
+   39  cd folder_2
+   40  ls -la
+   41  cd ..
+   42  cd folder_2
+   43  ls
+   44  mv two.txt four.txt
+   45  ls -la
+   46  cd ..
+   47  cd folder_2
+   48  ls
+   49  vim four.txt
+   50  cat four.txt
+   51  explorer .
+   52  mv four.txt four.json
+   53  ls
+   54  vim four.json
+   55  pdw
+   56  pwd
+   57  mkdir new_1
+   58  cd ..
+   59  cd new_1
+   60  ls
+   61  ls -la
+   62  cd homework/
+   63  cd new_1
+   64*
+   65  cd folder_1
+   66  touch 1.txt 2.txt 3.txt
+   67  touch 1.json 2.json
+   68  mkdir folder_1/underfolder_1
+   69  mkdir folder_2/underfolder_1
+   70  mkdir new_1.1 new_1.2 new_1.3
+   71  ls -la
+   72  vim 3.txt
+   73  cd ..
+   74  mv 1.json folder_2/1.json
+   75  cd folder_1
+   76  mv 1.json folder_2/1.json
+   77  mv 1.json folder_2/ 1.json
+   78  mv 1.txt folder_2/1.txt
+   79  ls -la
+   80  mv 1.json new_1.1
+   81  mv 2.json new_1.1
+   82  cp 2.txt new_1.2
+   83  cp 1.txt new_1.2
+   84  cp 3.txt new_1.2
+   85  find new_1.2/1.txt
+   86  sudo less+F
+   87  sudo less +F
+   88  less +F
+   89  tail -f 1.txt
+   90  tail -f folder_1/1.txt
+   91  tail -n folder_1/1.txt
+   92  tail -n folder_1/3.txt
+   93  tail -n5 folder_1/3.txt
+   94  tail -n5 3.txt
+   95  tail -n5 3.txt
+   96  tail -n15 3.txt
+   97  head -n2 3.txt
+   98  tail -f 3.txt
+   99  less 3.txt
+  100  date
+  101  history
+
