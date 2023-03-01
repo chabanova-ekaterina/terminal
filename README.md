@@ -3,8 +3,6 @@
 
 ```
       pwd
-      pwd
-      pwd
       ls
       ls -l
       ls -a
