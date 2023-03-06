@@ -1,6 +1,9 @@
 # terminal
 <h1 align="center">This repository contains files that confirm my ability to use the Linux terminal</h1>
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1HQvXiDvZ27AnZSbYMZf8N9L41sEuddc9"  width="300" height="300"/>&nbsp;
+</div>
 <h3 align="center">Here are the commands from the terminal that I used</h3>
 
 ```
