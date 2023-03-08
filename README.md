@@ -1,4 +1,4 @@
-# terminal
+# <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=13fXL6deyXq9XC9b0yC8kuFWG44dY54n8"/> &nbsp; terminal
 <h1 align="center">This repository contains files that confirm my ability to use the Linux terminal</h1>
 
 <div align="center">
