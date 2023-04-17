@@ -61,7 +61,6 @@
    61  ls -la
    62  cd homework/
    63  cd new_1
-   64*
    65  cd folder_1
    66  touch 1.txt 2.txt 3.txt
    67  touch 1.json 2.json
